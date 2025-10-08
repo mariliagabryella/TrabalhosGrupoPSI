@@ -30,7 +30,7 @@ namespace Vetores
                     maximo = maeros[i];
                     indice = i;
                 }
-                Console.WriteLine("Maior numero {0} e indice (1)",maximo,indice);
+                Console.WriteLine("Menor numero {0} e indice (1)",maximo,indice);
                 Console.WriteLine("******************");
             }
         }
